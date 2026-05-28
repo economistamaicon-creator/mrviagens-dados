@@ -32,7 +32,7 @@
     "data_ida": "12/06/2026",
     "data_volta": "14/06/2026",
     "form_tipo": "hotel",
-    "ativo": true,
+    "ativo": false,
     "imagem": "https://raw.githubusercontent.com/economistamaicon-creator/mrviagens-dados/main/images/1779974880055.jpg"
   }
 ]
