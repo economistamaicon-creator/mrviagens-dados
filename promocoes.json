@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "id": 1780012023390,
+    "origem": "",
+    "titulo": "DIA DOS NAMORADOS EM MACEIÓ",
+    "tag": "🏠 Hotel",
+    "destino": "Maceió",
+    "datas": "de 12 a 14 de junho",
+    "descricao": "",
+    "preco_parcelado": "6 X R$ 103,25",
+    "preco_vista": "R$ 619,50",
+    "data_ida_iso": "2026-06-12",
+    "data_volta_iso": "2026-06-14",
+    "data_ida": "12/06/2026",
+    "data_volta": "14/06/2026",
+    "form_tipo": "hotel",
+    "ativo": true,
+    "imagem": "https://raw.githubusercontent.com/economistamaicon-creator/mrviagens-dados/main/images/1780012023406.jpg"
+  },
+  {
+    "id": 1779975435618,
+    "origem": "",
+    "titulo": "DIA DOS NAMORADOS EM MACEIÓ",
+    "tag": "🏠 Hotel",
+    "destino": "Maceió",
+    "datas": "de 12 a 14 de junho",
+    "descricao": "",
+    "preco_parcelado": "6 X R$ 103,25",
+    "preco_vista": "R$ 619,50",
+    "data_ida_iso": "2026-06-12",
+    "data_volta_iso": "2026-06-14",
+    "data_ida": "12/06/2026",
+    "data_volta": "14/06/2026",
+    "form_tipo": "hotel",
+    "ativo": false,
+    "imagem": "https://raw.githubusercontent.com/economistamaicon-creator/mrviagens-dados/main/images/1779975435620.jpg"
+  }
+]
