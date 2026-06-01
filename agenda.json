@@ -58,5 +58,20 @@
       "hora": "05:30",
       "local": "CWB"
     }
+  },
+  {
+    "id": "1780354431750",
+    "tipo": "ida-volta",
+    "passageiro": "Elisa Mendes",
+    "ida": {
+      "data": "2026-06-06",
+      "hora": "02:30",
+      "local": "AJU"
+    },
+    "volta": {
+      "data": "2026-06-09",
+      "hora": "05:30",
+      "local": "CWB"
+    }
   }
 ]
