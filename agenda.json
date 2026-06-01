@@ -13,5 +13,20 @@
       "hora": "00:50",
       "local": "GRU"
     }
+  },
+  {
+    "id": "1780354203143",
+    "tipo": "ida-volta",
+    "passageiro": "Urbana Daltro",
+    "ida": {
+      "data": "2026-06-10",
+      "hora": "02:30",
+      "local": "AJU"
+    },
+    "volta": {
+      "data": "2026-06-12",
+      "hora": "00:50",
+      "local": "GRU"
+    }
   }
 ]
