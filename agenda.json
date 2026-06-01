@@ -88,5 +88,20 @@
       "hora": "05:30",
       "local": "CWB"
     }
+  },
+  {
+    "id": "1780354651047",
+    "tipo": "ida-volta",
+    "passageiro": "Lisandra Santos",
+    "ida": {
+      "data": "2026-06-04",
+      "hora": "06:00",
+      "local": "BSB"
+    },
+    "volta": {
+      "data": "2026-06-07",
+      "hora": "11:45",
+      "local": "AJU"
+    }
   }
 ]
