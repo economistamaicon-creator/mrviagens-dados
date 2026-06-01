@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1780353371865",
+    "tipo": "ida-volta",
+    "passageiro": "Priscila",
+    "ida": {
+      "data": "2026-06-10",
+      "hora": "07:36",
+      "local": "AJU"
+    },
+    "volta": {
+      "data": "2026-06-12",
+      "hora": "00:50",
+      "local": "GRU"
+    }
+  }
+]
