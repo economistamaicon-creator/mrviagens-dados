@@ -28,5 +28,20 @@
       "hora": "00:50",
       "local": "GRU"
     }
+  },
+  {
+    "id": "1780354273808",
+    "tipo": "ida-volta",
+    "passageiro": "Clara Pereira",
+    "ida": {
+      "data": "2026-06-10",
+      "hora": "02:30",
+      "local": "AJU"
+    },
+    "volta": {
+      "data": "2026-06-12",
+      "hora": "00:50",
+      "local": "GRU"
+    }
   }
 ]
