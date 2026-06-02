@@ -54,24 +54,6 @@
     "imagem": "https://raw.githubusercontent.com/economistamaicon-creator/mrviagens-dados/main/images/1780163667450.jpg"
   },
   {
-    "id": 1780163565647,
-    "origem": "Maceió",
-    "titulo": "Conheça Montevideo",
-    "tag": "✈️ Voo",
-    "destino": "Montevideo",
-    "datas": "de 01 a 08 de julho",
-    "descricao": "",
-    "preco_parcelado": "12 X R$ 225,62",
-    "preco_vista": "R$ 2256,62",
-    "data_ida_iso": "2026-07-01",
-    "data_volta_iso": "2026-07-08",
-    "data_ida": "01/07/2026",
-    "data_volta": "08/07/2026",
-    "form_tipo": "voos",
-    "ativo": true,
-    "imagem": "https://raw.githubusercontent.com/economistamaicon-creator/mrviagens-dados/main/images/1780163565651.jpg"
-  },
-  {
     "id": 1780149610420,
     "origem": "Aracaju",
     "titulo": "Dia dos Namorados em Aracaju",
