@@ -178,5 +178,20 @@
       "hora": "11:45",
       "local": "AJU"
     }
+  },
+  {
+    "id": "1780365864027",
+    "tipo": "ida-volta",
+    "passageiro": "MARCO BISPO",
+    "ida": {
+      "data": "2026-07-04",
+      "hora": "14:05",
+      "local": "BSB"
+    },
+    "volta": {
+      "data": "2026-07-25",
+      "hora": "11:45",
+      "local": "AJU"
+    }
   }
 ]
