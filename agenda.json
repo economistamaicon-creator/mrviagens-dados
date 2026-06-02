@@ -163,5 +163,20 @@
       "hora": "08:35",
       "local": "BSB"
     }
+  },
+  {
+    "id": "1780365726364",
+    "tipo": "ida-volta",
+    "passageiro": "Taise Corrente",
+    "ida": {
+      "data": "2026-07-04",
+      "hora": "14:05",
+      "local": "BSB"
+    },
+    "volta": {
+      "data": "2026-07-07",
+      "hora": "11:45",
+      "local": "AJU"
+    }
   }
 ]
