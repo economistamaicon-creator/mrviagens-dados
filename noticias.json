@@ -1,5 +1,11 @@
 [
   {
+    "titulo": "Notícia para TESTE de edição e exclusão",
+    "url": "https://mrviagens.com",
+    "ativo": true,
+    "id": 1781202806073
+  },
+  {
     "titulo": "Madrugada de ofertas 🌙 Latam, Gol e Azul têm promoções de voos nacionais, a partir de R$ 256 ida e volta!",
     "url": "https://www.melhoresdestinos.com.br/promocao/passagens-aereas-nacionais-10-06-26",
     "ativo": true,
