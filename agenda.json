@@ -193,5 +193,15 @@
       "hora": "11:45",
       "local": "AJU"
     }
+  },
+  {
+    "id": "1781821110809",
+    "tipo": "somente-ida",
+    "passageiro": "PRESLEY CAMARGO",
+    "ida": {
+      "data": "2026-07-03",
+      "hora": "",
+      "local": "GRU"
+    }
   }
 ]
