@@ -1,5 +1,23 @@
 [
   {
+    "id": 1782164026040,
+    "origem": "ARACAJU",
+    "titulo": "INVERNO EM SANTIAGO",
+    "tag": "✈️ Voo",
+    "destino": "SANTIAGO",
+    "datas": "de 21 a 28 de outubro",
+    "descricao": "",
+    "preco_parcelado": "12 X R$ 239,37",
+    "preco_vista": "R$ 2.394,10",
+    "data_ida_iso": "2026-10-21",
+    "data_volta_iso": "2026-10-28",
+    "data_ida": "21/10/2026",
+    "data_volta": "28/10/2026",
+    "form_tipo": "voos",
+    "ativo": true,
+    "imagem": "https://raw.githubusercontent.com/economistamaicon-creator/mrviagens-dados/main/images/1782164026046.jpg"
+  },
+  {
     "id": 1781448375856,
     "origem": "Salvador",
     "titulo": "Florianópolis por menos de R$ 1000,00",
