@@ -106,23 +106,5 @@
     "form_tipo": "pacote",
     "ativo": true,
     "imagem": "https://raw.githubusercontent.com/economistamaicon-creator/mrviagens-dados/main/images/1780436073720.jpg"
-  },
-  {
-    "id": 1780018237357,
-    "origem": "Aracaju",
-    "titulo": "SETEMBRO EM SANTIAGO",
-    "tag": "🌄 Pacote",
-    "destino": "Santiago",
-    "datas": "de 29/09 a 06/10",
-    "descricao": "",
-    "preco_parcelado": "12 X R$ 386,85",
-    "preco_vista": "R$ 3869,13",
-    "data_ida_iso": "2026-09-29",
-    "data_volta_iso": "2026-10-06",
-    "data_ida": "29/09/2026",
-    "data_volta": "06/10/2026",
-    "form_tipo": "pacote",
-    "ativo": true,
-    "imagem": "https://raw.githubusercontent.com/economistamaicon-creator/mrviagens-dados/main/images/1780018237362.jpg"
   }
 ]
