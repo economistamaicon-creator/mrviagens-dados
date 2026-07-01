@@ -106,23 +106,5 @@
     "form_tipo": "voos",
     "ativo": true,
     "imagem": "https://raw.githubusercontent.com/economistamaicon-creator/mrviagens-dados/main/images/1780953459667.jpg"
-  },
-  {
-    "id": 1780575670169,
-    "origem": "Salvador",
-    "titulo": "Inverno em Buenos Aires",
-    "tag": "✈️ Voo",
-    "destino": "Buenos Aires",
-    "datas": "de 28 de agosto a 03 de setembro",
-    "descricao": "",
-    "preco_parcelado": "12 X R$ 232,53",
-    "preco_vista": "R$ 2325,65",
-    "data_ida_iso": "2026-08-28",
-    "data_volta_iso": "2026-09-03",
-    "data_ida": "28/08/2026",
-    "data_volta": "03/09/2026",
-    "form_tipo": "voos",
-    "ativo": true,
-    "imagem": "https://raw.githubusercontent.com/economistamaicon-creator/mrviagens-dados/main/images/1780575670179.jpg"
   }
 ]
