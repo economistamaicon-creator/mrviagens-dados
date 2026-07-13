@@ -1,5 +1,23 @@
 [
   {
+    "id": 1783972564124,
+    "origem": "Aracaju",
+    "titulo": "Carnaval no Chile",
+    "tag": "✈️ Voo",
+    "destino": "Santiago",
+    "datas": "de 04 a 08 de fevereiro",
+    "descricao": "",
+    "preco_parcelado": "12 X R$ 242,47",
+    "preco_vista": "R$ 2.425,10",
+    "data_ida_iso": "2027-02-04",
+    "data_volta_iso": "2027-02-08",
+    "data_ida": "04/02/2027",
+    "data_volta": "08/02/2027",
+    "form_tipo": "voos",
+    "ativo": true,
+    "imagem": "https://raw.githubusercontent.com/economistamaicon-creator/mrviagens-dados/main/images/1783972564129.jpg"
+  },
+  {
     "id": 1782937629889,
     "origem": "São Paulo",
     "titulo": "IMPERDÍVEL! ARGENTINA SAINDO DE SÃO PAULO POR APENAS R$ 1.897,31",
