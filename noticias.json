@@ -3,6 +3,12 @@
     "titulo": "Viaje para os Estados Unidos pagando 30% a menos",
     "url": "https://mrviagens.com/e-book",
     "ativo": true,
+    "id": 1789004958465
+  },
+  {
+    "titulo": "Viaje para os Estados Unidos pagando 30% a menos",
+    "url": "https://mrviagens.com/e-book",
+    "ativo": true,
     "id": 1789004958030
   },
   {
@@ -28,11 +34,5 @@
     "url": "https://passageirodeprimeira.com/assist-card-passa-a-oferecer-acesso-as-salas-vip-ambaar-no-aeroporto-de-belo-horizonte/",
     "ativo": true,
     "id": 1787355284152
-  },
-  {
-    "titulo": "Duo Gourmet oferece até 6 meses grátis na assinatura do plano anual e acesso ao Inter Prime",
-    "url": "https://passageirodeprimeira.com/duo-gourmet-oferece-ate-6-meses-gratis-na-assinatura-do-plano-anual-e-acesso-ao-inter-prime/",
-    "ativo": true,
-    "id": 1787186851538
   }
 ]
